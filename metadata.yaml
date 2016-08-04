@@ -1,0 +1,37 @@
+_repo: C.-Iuli-Caesaris-De-Bello-Gallico_218
+_version: 0.0.1
+alternative_title: De Bello Gallico
+creator:
+  author:
+    agent_name: Caesar, Julius
+    aliases:
+    - Cesare, Gaio Giulio
+    - Caesar, Caius Julius
+    - Cesare, C. Julio (Caio Julio)
+    - Cesare, Caio Giulio
+    - Caesar, Gaius Julius
+    - Cesare, C. Iulio (Caio Iulio)
+    birthdate: -100
+    deathdate: -44
+    gutenberg_agent_id: '3621'
+    url: http://www.gutenberg.org/2009/agents/3621
+    wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2008-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '218'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Gaul -- History -- Gallic Wars, 58-51 B.C.'
+- !lcc 'PA'
+- GITenberg
+tableOfContents: Commentarius Primus -- Commentarius Secundus -- Commentarius Tertius
+  -- Commentarius Quartus
+title: C. Iuli Caesaris De Bello Gallico
+url: http://www.gutenberg.org/ebooks/218
