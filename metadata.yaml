@@ -1,6 +1,9 @@
 _repo: C.-Iuli-Caesaris-De-Bello-Gallico_218
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: De Bello Gallico
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caesar, Julius
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3621
     wikipedia: http://en.wikipedia.org/wiki/Julius_Caesar
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/218#C.-Iuli-Caesaris-De-Bello-Gallico
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2008-07-03'
 gutenberg_type: Text
